@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T01:55:35.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 Edg/86.0.622.38" etag="n1bM9IhzdmPfOYi3zKfm" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T02:00:42.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 Edg/86.0.622.38" etag="THr7njZr4SFj5jvG0Jxz" version="13.7.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,20 +7,29 @@
         <mxCell id="4oJUxCtLDNiQwjgYBg_o-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4oJUxCtLDNiQwjgYBg_o-3" target="4oJUxCtLDNiQwjgYBg_o-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4oJUxCtLDNiQwjgYBg_o-3" value="遥感影像&lt;br&gt;(Landsat)" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="120" width="100" height="60" as="geometry" />
+        <mxCell id="4oJUxCtLDNiQwjgYBg_o-3" value="遥感影像&lt;br&gt;（Landsat）" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4oJUxCtLDNiQwjgYBg_o-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4oJUxCtLDNiQwjgYBg_o-5" target="4oJUxCtLDNiQwjgYBg_o-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4oJUxCtLDNiQwjgYBg_o-5" value="监督分类&lt;br&gt;(GEE)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4oJUxCtLDNiQwjgYBg_o-5" value="监督分类&lt;br&gt;（GEE）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="120" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4oJUxCtLDNiQwjgYBg_o-11" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4oJUxCtLDNiQwjgYBg_o-11" value="LUC数据&lt;br&gt;（1986-2018）" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4oJUxCtLDNiQwjgYBg_o-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4oJUxCtLDNiQwjgYBg_o-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4oJUxCtLDNiQwjgYBg_o-13" target="4oJUxCtLDNiQwjgYBg_o-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4oJUxCtLDNiQwjgYBg_o-13" value="训练样本&lt;br&gt;（目视）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4oJUxCtLDNiQwjgYBg_o-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4oJUxCtLDNiQwjgYBg_o-14" target="4oJUxCtLDNiQwjgYBg_o-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4oJUxCtLDNiQwjgYBg_o-14" value="验证样本&lt;br&gt;(GE/野外)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="30" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
