@@ -1,1 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T03:04:54.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63" etag="9L6gWd_Ia4L6Zr7y0gKU" version="14.4.3" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7Vptc5s4EP41zFw/JAPi/aPxS5pe0ksvTdPeN9VWbC7YcoWc2Pfrb1cIA4Y4cZOe7TlmPFharQRa7T56FmHY3enyTND55JKPWGIQc7Q07J5BiOUQYuDPHK0yiR86mWAs4pFWKgTX8T9MC00tXcQjllYUJeeJjOdV4ZDPZmwoKzIqBH+sqt3xpHrXOR2zmuB6SJO69DYeyUkmDYhfyN+zeDzJ72x5YdYypbmynkk6oSP+WBLZfcPuCs5lVpouuyxB4+V2uT1f3SYX997Zh0/pD3oT/f7545eTbLDBLl3WUxBsJn96aCe5dZbn9hfr41/JzYfZ6DOZixNthVSucnuxEZhPV7mQEz7mM5r0C2kk+GI2YjiqCbVC54LzOQgtEP7NpFxpX6ALyUE0kdNEt7JlLL9i91NX176VWnpLPbKqrPLKTIpVqRNWv5Xbim6qlvd7oem0iVO+EENtiK9TX5I//7i8v4i9T378/urKXmkTm5KKMZNb9OxMD41ZckO9MGeMTxk8JCgIllAZP1R9lWqXH6/11l2veAzzIKYOTzv3TR2cxHSqQ2QPqnsVztERgq5KanNUSJ++DyFu5T6WH1R9rfZc/jZ9KGRPkNdKNilEyn+bfXnb2jzQZKHtedE5N/quEQyMMFCFrhF6Rt/DaxSiJPKNTt8gXgKLGX0XUBpj6bcHKmI6G7J3tfgAFJhjEVyKJglL+FjQadW/Uyn4/RptwKbRnIkYpsfEZseroiF6nMSSXc+pcsBHQONKrOHAVAx1UFk4apqVzVNiQ+2Oz+SATuNE2bzvGFFkRAOcJMwwiLTGde7hEykBgYlrd+ACC4MXVEhPx5yPE0bncXo65FPVMEyV6uAuGx+KPZS7cBf8gzupv0EmdNUf2hX+1J13i8IHJiRbbo2bvNW3q35GtP8/FlBvmdp3JyWYd8ynQ63kpVudsBFQ7RZQdwLUnBI8B6jmWwPqq1bZOcJV9g9smRsNS37Jvvnq7c7aoFYb+pYTbtN/9XbXaCr3CH3wwFywUe84XbDGuN7YBbeZtMS4ciqFTAKTRirpCZZPUjFUGt6PBeZLUUY/kHwAaXiCeCjasSYdinL0IdDcAKbqhhZWPbh0CMqQdCjmESAZAb6nWyMlU8rYrRPlKoq7RDhoaOetISqHYT6Uao2s4qlzfqhYlWOEHcUhQyNyFNUEYglVEwtBr0Qs9QzXvVtOeUSc0rP2TCmDFuh3AnryQqB/8xz9pau87amfz14DI/Iw9lDSwWisZ69pwudt6nrYMEP8jQ3+v0xdm3fz/TDKNWhUIKNAkCdA43mfeWNYsV8IK+5BwYpdg5Xrj+ddBR6BEXiqAPyFGH31Jiz0kbxENhKZTWeoBnRTyJeWlX5PebKQrFPEfRUFnEa0eetVfUU85hbYXzySNh63mMc5ym3eqadMsKNDfoK5hG9AsgF2g0II2QVYL1QZxQAlAcFMo77ZT9iy3eoPeqv3q4c0+0cWt9kJYQdQThg4SDFrnqZ2hi56ZkFGXUx0YT5YgF/97XfriAfkiE6wR09szG3DNrd9atNrtNd+z593fYnp2FbV3/Z8bLzNpOXE+6bb4tgh45it/eJwjn3zr51aIHshkL30NOYwgMy1N74zOEQgq5/G9PqXLZAdMpDVCNnegcxrcWwnHNvbYcNP4ZhFjgDH6ich/5NTZX3gg+fJNhbCHubkmFqbmHjXX/1MGZ29a0jU22Pn49sKNl8S/cKdAKrFV+tZ1Bbf/tv9fwE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-26T03:11:46.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63" etag="kAEuSa3qhf9TsVTdyP_W" version="14.4.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="813" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Xm7t2ROMkLi6Q7iHPP3y-0" value="年尺度&lt;br&gt;数据集&lt;br&gt;（LUCC）" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=仿宋;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E4%25BB%25BF%25E5%25AE%258B;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="156" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4lW4xI3V1NZlUJndT2pr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Xm7t2ROMkLi6Q7iHPP3y-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="482.5" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xm7t2ROMkLi6Q7iHPP3y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=仿宋;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xm7t2ROMkLi6Q7iHPP3y-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="647.075" y="201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xm7t2ROMkLi6Q7iHPP3y-3" value="SNIC分割算法" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=仿宋;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="430" y="181" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4lW4xI3V1NZlUJndT2pr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Xm7t2ROMkLi6Q7iHPP3y-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="586" y="164" />
+              <mxPoint x="482" y="164" />
+            </Array>
+            <mxPoint x="585.5" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lW4xI3V1NZlUJndT2pr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Xm7t2ROMkLi6Q7iHPP3y-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="688" y="164" />
+              <mxPoint x="482" y="164" />
+            </Array>
+            <mxPoint x="687.5" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lW4xI3V1NZlUJndT2pr-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%E9%87%91%E6%A2%85%E5%8B%98%E6%B5%81%E7%AB%8B%E4%BD%93%E7%95%99%E5%BD%B1&quot;&gt;月尺度&lt;br&gt;数据集&lt;br&gt;（自然要素）&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=仿宋;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E4%25BB%25BF%25E5%25AE%258B;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="70" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="idjRQkM0DHG495iHe50G-0" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%E9%87%91%E6%A2%85%E5%8B%98%E6%B5%81%E7%AB%8B%E4%BD%93%E7%95%99%E5%BD%B1&quot;&gt;月尺度&lt;br&gt;数据矩阵&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=仿宋;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E4%25BB%25BF%25E5%25AE%258B;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="70" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="idjRQkM0DHG495iHe50G-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%E9%87%91%E6%A2%85%E5%8B%98%E6%B5%81%E7%AB%8B%E4%BD%93%E7%95%99%E5%BD%B1&quot;&gt;年尺度&lt;br&gt;数据矩阵&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=仿宋;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E4%25BB%25BF%25E5%25AE%258B;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="156" width="105" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
