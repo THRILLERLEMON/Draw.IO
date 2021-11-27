@@ -1,44 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2021-11-27T07:23:23.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34" etag="FzbspTaiQEI6CAAI6A7n" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-27T07:36:26.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34" etag="ruPQwUcwZWP-kkUT7p61" version="14.9.0" type="github">
   <diagram id="KzU6OWMET0ikFXKX8fpt" name="第 1 页">
     <mxGraphModel dx="870" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FaUYwd_Z24W162cdU9Y5-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
-          <mxGeometry x="179" y="10" width="470" height="160" as="geometry" />
+        <mxCell id="FaUYwd_Z24W162cdU9Y5-18" value="基础输入数据" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="420" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="FaUYwd_Z24W162cdU9Y5-2" value="温度" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="219" y="95" width="100" height="60" as="geometry" />
+        <mxCell id="FaUYwd_Z24W162cdU9Y5-19" value="温度" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="FaUYwd_Z24W162cdU9Y5-18">
+          <mxGeometry x="10" y="87" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FaUYwd_Z24W162cdU9Y5-3" value="降水" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="317" y="95" width="100" height="60" as="geometry" />
+        <mxCell id="FaUYwd_Z24W162cdU9Y5-20" value="降水" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="FaUYwd_Z24W162cdU9Y5-18">
+          <mxGeometry x="108" y="87" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FaUYwd_Z24W162cdU9Y5-4" value="云量" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="416" y="95" width="100" height="60" as="geometry" />
+        <mxCell id="FaUYwd_Z24W162cdU9Y5-21" value="云量" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="FaUYwd_Z24W162cdU9Y5-18">
+          <mxGeometry x="207" y="87" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FaUYwd_Z24W162cdU9Y5-5" value="降雨天数" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="514" y="95" width="100" height="60" as="geometry" />
+        <mxCell id="FaUYwd_Z24W162cdU9Y5-22" value="降雨天数" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="FaUYwd_Z24W162cdU9Y5-18">
+          <mxGeometry x="305" y="87" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FaUYwd_Z24W162cdU9Y5-6" value="土地利用" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="279" y="25" width="100" height="60" as="geometry" />
+        <mxCell id="FaUYwd_Z24W162cdU9Y5-23" value="土地利用" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="FaUYwd_Z24W162cdU9Y5-18">
+          <mxGeometry x="70" y="30" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FaUYwd_Z24W162cdU9Y5-7" value="土壤性质" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="378" y="25" width="100" height="60" as="geometry" />
+        <mxCell id="FaUYwd_Z24W162cdU9Y5-24" value="土壤性质" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="FaUYwd_Z24W162cdU9Y5-18">
+          <mxGeometry x="169" y="30" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FaUYwd_Z24W162cdU9Y5-8" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span&gt;大气&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;CO&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; vertical-align: sub&quot;&gt;2&lt;/span&gt;&lt;/p&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="476" y="25" width="100" height="60" as="geometry" />
+        <mxCell id="FaUYwd_Z24W162cdU9Y5-25" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span&gt;大气&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;CO&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; vertical-align: sub&quot;&gt;2&lt;/span&gt;&lt;/p&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="FaUYwd_Z24W162cdU9Y5-18">
+          <mxGeometry x="267" y="30" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FaUYwd_Z24W162cdU9Y5-9" value="基础输入数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="179" y="10" width="100" height="40" as="geometry" />
+        <mxCell id="FaUYwd_Z24W162cdU9Y5-26" value="LPJmL模型" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="420" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="FaUYwd_Z24W162cdU9Y5-10" value="LPJmL模型" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
-          <mxGeometry x="349" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="FaUYwd_Z24W162cdU9Y5-28" value="三种水分配情景" style="swimlane;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="420" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FaUYwd_Z24W162cdU9Y5-11" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
-          <mxGeometry x="179" y="260" width="470" height="160" as="geometry" />
+        <mxCell id="FaUYwd_Z24W162cdU9Y5-15" value="优先生态用水" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=12;" vertex="1" parent="FaUYwd_Z24W162cdU9Y5-28">
+          <mxGeometry x="40" y="40" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FaUYwd_Z24W162cdU9Y5-12" value="三种水分配情景" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="179" y="260" width="120" height="40" as="geometry" />
+        <mxCell id="FaUYwd_Z24W162cdU9Y5-16" value="优先灌溉用水" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=12;" vertex="1" parent="FaUYwd_Z24W162cdU9Y5-28">
+          <mxGeometry x="169" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FaUYwd_Z24W162cdU9Y5-17" value="优先经济用水" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=12;" vertex="1" parent="FaUYwd_Z24W162cdU9Y5-28">
+          <mxGeometry x="290" y="40" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
