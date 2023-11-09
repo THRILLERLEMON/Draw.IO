@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T08:02:20.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="B7A-Nc-cZC7BpRDojPi3" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T14:21:01.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="x6jaG364ihfzTsYipU_e" version="22.1.0" type="github">
   <diagram name="第 1 页" id="eSo4roDagTOv7NbX58sI">
-    <mxGraphModel dx="815" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="T6tc1Hb5-DZ5HvoijZZq-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T6tc1Hb5-DZ5HvoijZZq-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="182" y="608" width="464" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i3CLbu43X5joJ49ZT0Bw-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;jumpStyle=arc;strokeColor=#d7e37d;fontFamily=Arial;" parent="1" source="i3CLbu43X5joJ49ZT0Bw-6" target="i3CLbu43X5joJ49ZT0Bw-10" edge="1">
@@ -86,7 +86,7 @@
         <mxCell id="i3CLbu43X5joJ49ZT0Bw-8" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;Food ES flow out&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fillColor=#fbbcdd;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="565" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i3CLbu43X5joJ49ZT0Bw-9" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;Soil ES flow out&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fillColor=#fbbcdd;flipV=1;" parent="1" vertex="1">
+        <mxCell id="i3CLbu43X5joJ49ZT0Bw-9" value="&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;Soil&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;conservation&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ES flow out&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fillColor=#fbbcdd;flipV=1;verticalAlign=middle;spacingTop=0;spacing=2;" parent="1" vertex="1">
           <mxGeometry x="182" y="565" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i3CLbu43X5joJ49ZT0Bw-10" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;Water ES flow out&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fillColor=#fbbcdd;" parent="1" vertex="1">
@@ -189,22 +189,22 @@
             <mxPoint x="-744" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T6tc1Hb5-DZ5HvoijZZq-2" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 8px;&quot;&gt;Local ES supply&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fillColor=#9ad1f9;flipV=1;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="T6tc1Hb5-DZ5HvoijZZq-2" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 8px;&quot;&gt;Local ES supply&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fillColor=#9ad1f9;flipV=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="187" y="628" width="90" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="T6tc1Hb5-DZ5HvoijZZq-3" value="In&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;flow&amp;nbsp;&lt;/span&gt;ES" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fillColor=#b8f09e;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="T6tc1Hb5-DZ5HvoijZZq-3" value="In&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;flow&amp;nbsp;&lt;/span&gt;ES" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fillColor=#b8f09e;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="285" y="628" width="90" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="T6tc1Hb5-DZ5HvoijZZq-4" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 8px;&quot;&gt;Local socio-economic&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fillColor=#f7948d;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="T6tc1Hb5-DZ5HvoijZZq-4" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 8px;&quot;&gt;Local socio-economic&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fillColor=#f7948d;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="187" y="648" width="90" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="T6tc1Hb5-DZ5HvoijZZq-5" value="Outflow&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;ES&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fillColor=#fbbcdd;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="T6tc1Hb5-DZ5HvoijZZq-5" value="Outflow&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;ES&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fillColor=#fbbcdd;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="285" y="648" width="90" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="T6tc1Hb5-DZ5HvoijZZq-7" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Arial&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Legend&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T6tc1Hb5-DZ5HvoijZZq-7" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Arial&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Legend&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="187" y="603" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T6tc1Hb5-DZ5HvoijZZq-8" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Strength&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T6tc1Hb5-DZ5HvoijZZq-8" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Strength&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="643" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
