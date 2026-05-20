@@ -1,0 +1,127 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="SBcDRH-LKJdorlWVXEG6">
+    <mxGraphModel dx="1835" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1;fontColor=#1E3A8A;" value="高速公路智慧环水保管控平台建设研究技术路线图" vertex="1">
+          <mxGeometry height="50" width="600" x="260" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tech_bg" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#CBD5E1;strokeWidth=2;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="770" width="160" x="30" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tech_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1;fontColor=#475569;" value="技术支撑体系" vertex="1">
+          <mxGeometry height="30" width="160" x="30" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="tech1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94A3B8;fontSize=18;align=center;" value="物联网、无人机、遥感、传感器" vertex="1">
+          <mxGeometry height="80" width="120" x="50" y="212" as="geometry" />
+        </mxCell>
+        <mxCell id="tech1_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;" value="空天地一体化感知" vertex="1">
+          <mxGeometry height="20" width="120" x="50" y="318" as="geometry" />
+        </mxCell>
+        <mxCell id="tech2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94A3B8;fontSize=18;align=center;" value="大数据、云计算、人工智能" vertex="1">
+          <mxGeometry height="80" width="120" x="50" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="tech2_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;" value="多源数据融合与AI算法" vertex="1">
+          <mxGeometry height="20" width="120" x="50" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="tech3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94A3B8;fontSize=18;align=center;" value="GIS、BIM、数字孪生" vertex="1">
+          <mxGeometry height="80" width="120" x="50" y="618" as="geometry" />
+        </mxCell>
+        <mxCell id="tech3_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;" value="空间可视化与数字孪生" vertex="1">
+          <mxGeometry height="20" width="120" x="50" y="734" as="geometry" />
+        </mxCell>
+        <mxCell id="phase1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#3B82F6;fontSize=16;fontStyle=1;verticalAlign=top;spacingTop=5;" value="阶段一：前期调研与需求分析（2026.5-2026.6）" vertex="1">
+          <mxGeometry height="160" width="700" x="220" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="task1_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#60A5FA;fontSize=16;" value="项目启动与团队组建" vertex="1">
+          <mxGeometry height="80" width="120" x="240" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="task1_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#60A5FA;fontSize=16;" value="国内外现状调研与文献梳理" vertex="1">
+          <mxGeometry height="80" width="120" x="375" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="task1_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#60A5FA;fontSize=16;" value="依托工程实地调研" vertex="1">
+          <mxGeometry height="80" width="120" x="510" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="task1_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#60A5FA;fontSize=16;" value="环水保管理内容与流程界定" vertex="1">
+          <mxGeometry height="80" width="120" x="645" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="task1_5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#60A5FA;fontSize=16;" value="智慧平台需求分析与总体设计" vertex="1">
+          <mxGeometry height="80" width="120" x="780" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1" edge="1" parent="1" source="phase1" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#9CA3AF;fontSize=16;" target="phase2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="570" y="260" as="sourcePoint" />
+            <mxPoint x="570" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="phase2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D1FAE5;strokeColor=#10B981;fontSize=16;fontStyle=1;verticalAlign=top;spacingTop=5;" value="阶段二：关键技术与平台研发（2026.7-2026.12）" vertex="1">
+          <mxGeometry height="160" width="700" x="220" y="301" as="geometry" />
+        </mxCell>
+        <mxCell id="task2_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#34D399;fontSize=16;" value="空天地一体化感知体系构建" vertex="1">
+          <mxGeometry height="80" width="120" x="240" y="351" as="geometry" />
+        </mxCell>
+        <mxCell id="task2_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#34D399;fontSize=16;" value="多源异构数据采集与清洗" vertex="1">
+          <mxGeometry height="80" width="120" x="375" y="351" as="geometry" />
+        </mxCell>
+        <mxCell id="task2_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#34D399;fontSize=16;" value="环水保专题数据库建设" vertex="1">
+          <mxGeometry height="80" width="120" x="510" y="351" as="geometry" />
+        </mxCell>
+        <mxCell id="task2_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#34D399;fontSize=16;" value="平台四层架构研发" vertex="1">
+          <mxGeometry height="80" width="120" x="645" y="351" as="geometry" />
+        </mxCell>
+        <mxCell id="task2_5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#34D399;fontSize=16;" value="核心功能模块开发" vertex="1">
+          <mxGeometry height="80" width="120" x="780" y="351" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow2" edge="1" parent="1" source="phase2" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#9CA3AF;fontSize=16;" target="phase3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="570" y="500" as="sourcePoint" />
+            <mxPoint x="570" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="phase3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#F59E0B;fontSize=16;fontStyle=1;verticalAlign=top;spacingTop=5;" value="阶段三：系统测试与示范应用（2027.1-2027.2）" vertex="1">
+          <mxGeometry height="160" width="700" x="220" y="504" as="geometry" />
+        </mxCell>
+        <mxCell id="task3_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FBBF24;fontSize=16;" value="平台单元测试与集成测试" vertex="1">
+          <mxGeometry height="80" width="120" x="240" y="554" as="geometry" />
+        </mxCell>
+        <mxCell id="task3_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FBBF24;fontSize=16;" value="依托工程部署" vertex="1">
+          <mxGeometry height="80" width="120" x="375" y="554" as="geometry" />
+        </mxCell>
+        <mxCell id="task3_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FBBF24;fontSize=16;" value="现场数据接入与试运行" vertex="1">
+          <mxGeometry height="80" width="120" x="510" y="554" as="geometry" />
+        </mxCell>
+        <mxCell id="task3_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FBBF24;fontSize=16;" value="功能验证与性能优化" vertex="1">
+          <mxGeometry height="80" width="120" x="645" y="554" as="geometry" />
+        </mxCell>
+        <mxCell id="task3_5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FBBF24;fontSize=16;" value="用户培训与协同管理反馈" vertex="1">
+          <mxGeometry height="80" width="120" x="780" y="554" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3" edge="1" parent="1" source="phase3" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#9CA3AF;fontSize=16;" target="phase4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="570" y="740" as="sourcePoint" />
+            <mxPoint x="570" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="phase4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#8B5CF6;fontSize=16;fontStyle=1;verticalAlign=top;spacingTop=5;" value="阶段四：成果验收与推广（2027.3-2027.4）" vertex="1">
+          <mxGeometry height="160" width="700" x="220" y="707" as="geometry" />
+        </mxCell>
+        <mxCell id="task4_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#A78BFA;fontSize=16;" value="项目结题与验收文档整理" vertex="1">
+          <mxGeometry height="80" width="120" x="240" y="757" as="geometry" />
+        </mxCell>
+        <mxCell id="task4_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#A78BFA;fontSize=16;" value="学术论文与软件著作权申请" vertex="1">
+          <mxGeometry height="80" width="120" x="375" y="757" as="geometry" />
+        </mxCell>
+        <mxCell id="task4_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#A78BFA;fontSize=16;" value="环水保管理体系与标准编制" vertex="1">
+          <mxGeometry height="80" width="120" x="510" y="757" as="geometry" />
+        </mxCell>
+        <mxCell id="task4_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#A78BFA;fontSize=16;" value="集团内部推广应用方案制定" vertex="1">
+          <mxGeometry height="80" width="120" x="645" y="757" as="geometry" />
+        </mxCell>
+        <mxCell id="task4_5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#A78BFA;fontSize=16;" value="省内行业及跨区域拓展规划" vertex="1">
+          <mxGeometry height="80" width="120" x="780" y="757" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
