@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="R8G5RhDC5h77TG9scHxp">
+    <mxGraphModel dx="1406" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" value="路域低空走廊总体技术架构" vertex="1">
+          <mxGeometry height="30" width="500" x="253" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="app_layer" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E67E62;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=17;verticalAlign=top;" value="应用服务层" vertex="1">
+          <mxGeometry height="100" width="900" x="50" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="app_mod1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="物流配送" vertex="1">
+          <mxGeometry height="45" width="180" x="123" y="93" as="geometry" />
+        </mxCell>
+        <mxCell id="app_mod2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="应急救援" vertex="1">
+          <mxGeometry height="45" width="180" x="323" y="93" as="geometry" />
+        </mxCell>
+        <mxCell id="app_mod3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="巡检监测" vertex="1">
+          <mxGeometry height="45" width="180" x="523" y="93" as="geometry" />
+        </mxCell>
+        <mxCell id="app_mod4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="智慧出行" vertex="1">
+          <mxGeometry height="45" width="180" x="723" y="93" as="geometry" />
+        </mxCell>
+        <mxCell id="app_right_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1;fontSize=18;textDirection=vertical-lr;" value="面向用户提供服务" vertex="1">
+          <mxGeometry height="40" width="60" x="960" y="86" as="geometry" />
+        </mxCell>
+        <mxCell id="traffic_layer" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2A663;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=17;verticalAlign=top;" value="交通管理层" vertex="1">
+          <mxGeometry height="100" width="900" x="50" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="traffic_mod1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="飞行计划管理" vertex="1">
+          <mxGeometry height="45" width="150" x="93" y="223" as="geometry" />
+        </mxCell>
+        <mxCell id="traffic_mod2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="空域态势感知" vertex="1">
+          <mxGeometry height="45" width="150" x="263" y="223" as="geometry" />
+        </mxCell>
+        <mxCell id="traffic_mod3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="冲突检测避让" vertex="1">
+          <mxGeometry height="45" width="150" x="433" y="223" as="geometry" />
+        </mxCell>
+        <mxCell id="traffic_mod4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="流量管理" vertex="1">
+          <mxGeometry height="45" width="150" x="603" y="223" as="geometry" />
+        </mxCell>
+        <mxCell id="traffic_mod5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="气象服务" vertex="1">
+          <mxGeometry height="45" width="150" x="773" y="223" as="geometry" />
+        </mxCell>
+        <mxCell id="traffic_right_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1;fontSize=18;textDirection=vertical-lr;" value="核心管理系统" vertex="1">
+          <mxGeometry height="40" width="60" x="960" y="216" as="geometry" />
+        </mxCell>
+        <mxCell id="traffic_keytech" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=13;" value="关键技术：数字孪生、人工智能、区块链、边缘计算" vertex="1">
+          <mxGeometry height="20" width="400" x="50" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="comm_layer" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6C97A;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=17;verticalAlign=top;" value="通信导航监视层" vertex="1">
+          <mxGeometry height="100" width="900" x="50" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="comm_mod1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="通信系统" vertex="1">
+          <mxGeometry height="45" width="250" x="133" y="353" as="geometry" />
+        </mxCell>
+        <mxCell id="comm_mod2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="导航系统" vertex="1">
+          <mxGeometry height="45" width="250" x="403" y="353" as="geometry" />
+        </mxCell>
+        <mxCell id="comm_mod3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="监视系统" vertex="1">
+          <mxGeometry height="45" width="250" x="673" y="353" as="geometry" />
+        </mxCell>
+        <mxCell id="comm_right_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=1;fontStyle=1;fontSize=18;textDirection=vertical-lr;" value="技术支撑体系" vertex="1">
+          <mxGeometry height="40" width="60" x="960" y="346" as="geometry" />
+        </mxCell>
+        <mxCell id="comm_keytech" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=13;" value="关键技术：5G通信、北斗导航、ADS-B、多源融合监视" vertex="1">
+          <mxGeometry height="20" width="400" x="50" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="infra_layer" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#58B3A5;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=17;verticalAlign=top;" value="基础设施层" vertex="1">
+          <mxGeometry height="100" width="900" x="50" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="infra_mod1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="起降场站" vertex="1">
+          <mxGeometry height="45" width="150" x="93" y="483" as="geometry" />
+        </mxCell>
+        <mxCell id="infra_mod2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="充电设施" vertex="1">
+          <mxGeometry height="45" width="150" x="263" y="483" as="geometry" />
+        </mxCell>
+        <mxCell id="infra_mod3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="通信设施" vertex="1">
+          <mxGeometry height="45" width="150" x="433" y="483" as="geometry" />
+        </mxCell>
+        <mxCell id="infra_mod4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="监视设施" vertex="1">
+          <mxGeometry height="45" width="150" x="603" y="483" as="geometry" />
+        </mxCell>
+        <mxCell id="infra_mod5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="应急设施" vertex="1">
+          <mxGeometry height="45" width="150" x="773" y="483" as="geometry" />
+        </mxCell>
+        <mxCell id="infra_right_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=1;fontStyle=1;fontSize=18;textDirection=vertical-lr;" value="物理设施基础" vertex="1">
+          <mxGeometry height="40" width="60" x="960" y="476" as="geometry" />
+        </mxCell>
+        <mxCell id="infra_keytech" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=13;" value="关键技术：快充技术、智能监控、应急联动" vertex="1">
+          <mxGeometry height="20" width="400" x="50" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="airspace_layer" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;fontStyle=1;fontSize=17;verticalAlign=top;" value="空域规划层" vertex="1">
+          <mxGeometry height="100" width="900" x="50" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="airspace_mod1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="走廊划设" vertex="1">
+          <mxGeometry height="45" width="180" x="123" y="613" as="geometry" />
+        </mxCell>
+        <mxCell id="airspace_mod2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="高度范围" vertex="1">
+          <mxGeometry height="45" width="180" x="323" y="613" as="geometry" />
+        </mxCell>
+        <mxCell id="airspace_mod3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="宽度设计" vertex="1">
+          <mxGeometry height="45" width="180" x="523" y="613" as="geometry" />
+        </mxCell>
+        <mxCell id="airspace_mod4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=1;fontStyle=1;fontSize=17;fontColor=#333333;" value="分类管理" vertex="1">
+          <mxGeometry height="45" width="180" x="723" y="613" as="geometry" />
+        </mxCell>
+        <mxCell id="airspace_right_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=1;fontStyle=1;fontSize=18;textDirection=vertical-lr;" value="空间资源规划" vertex="1">
+          <mxGeometry height="40" width="60" x="960" y="606" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1" edge="1" parent="1" style="endArrow=classic;html=1;strokeWidth=1;fontStyle=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="500" y="150" as="sourcePoint" />
+            <mxPoint x="500" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow2" edge="1" parent="1" style="endArrow=classic;html=1;strokeWidth=1;fontStyle=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="500" y="280" as="sourcePoint" />
+            <mxPoint x="500" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow3" edge="1" parent="1" style="endArrow=classic;html=1;strokeWidth=1;fontStyle=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="500" y="410" as="sourcePoint" />
+            <mxPoint x="500" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow4" edge="1" parent="1" style="endArrow=classic;html=1;strokeWidth=1;fontStyle=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="500" y="540" as="sourcePoint" />
+            <mxPoint x="500" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="footer_text" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=10;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;路域低空走廊技术架构采用分层设计，各层协同工作，共同保障低空飞行安全、有序、高效运行&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="700" x="170" y="680" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
